@@ -1,0 +1,25 @@
+{
+  "name": "zen-mode",
+  "version": "1.0.0",
+  "description": "Enter zen mode - one-shot your website to prod with SEO, blog and a beautiful responsive layout",
+  "main": "index.js",
+  "bin": {
+    "zen-mode": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zen",
+    "mode",
+    "website",
+    "productivity",
+    "pageai"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danmindru/zen-mode"
+  }
+}
