@@ -1,4 +1,4 @@
-# merry-xmas 🎄
+# jolly-xmas 🎄
 
 ```
 $$\      $$\
@@ -37,7 +37,7 @@ A festive CLI package that spreads holiday cheer right in your terminal! ✨
 ## Installation
 
 ```bash
-npm install -g merry-xmas
+npm install -g jolly-xmas
 ```
 
 ## Usage
@@ -45,13 +45,13 @@ npm install -g merry-xmas
 Simply run:
 
 ```bash
-merry-xmas
+jolly-xmas
 ```
 
 Or use with npx without installing:
 
 ```bash
-npx merry-xmas
+npx jolly-xmas
 ```
 
 ## Example Output
