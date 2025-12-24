@@ -1,4 +1,4 @@
-# zen-mode
+# jolly-xmas
 
 ```
        .::::.
@@ -34,7 +34,7 @@ A colorful CLI package that displays an inspiring message with:
 ## Installation
 
 ```bash
-npm install -g zen-mode
+npm install -g jolly-xmas
 ```
 
 ## Usage
@@ -42,13 +42,13 @@ npm install -g zen-mode
 Simply run:
 
 ```bash
-zen-mode
+jolly-xmas
 ```
 
 Or use with npx without installing:
 
 ```bash
-npx zen-mode
+npx jolly-xmas
 ```
 
 The output will display in beautiful rainbow colors in your terminal!

@@ -1,26 +1,31 @@
 {
-  "name": "zen-mode",
+  "name": "jolly-xmas",
   "version": "1.0.0",
-  "description": "Enter zen mode - one-shot your website to prod with SEO, blog and a beautiful responsive layout",
+  "description": "Merry Xmas!",
   "main": "index.js",
   "bin": {
-    "zen-mode": "./index.js"
+    "jolly-xmas": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "zen",
-    "mode",
-    "website",
-    "productivity",
-    "pageai"
+    "merry",
+    "xmas",
+    "christmas",
+    "holiday",
+    "season",
+    "happy",
+    "holidays",
+    "season's",
+    "greetings",
+    "season's"
   ],
   "author": "",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danmindru/zen-mode"
+    "url": "https://github.com/danmindru/jolly-xmas"
   },
   "dependencies": {
     "chalk": "^4.1.2",
