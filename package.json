@@ -1,10 +1,10 @@
 {
-  "name": "jolly-xmass",
-  "version": "1.0.3",
+  "name": "jolly-xmas",
+  "version": "1.1.0",
   "description": "Merry Xmas!",
   "main": "index.js",
   "bin": {
-    "jolly-xmass": "./index.js"
+    "jolly-xmas": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -25,7 +25,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danmindru/jolly-xmass"
+    "url": "https://github.com/danmindru/jolly-xmas"
   },
   "dependencies": {
     "chalk": "^4.1.2",
