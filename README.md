@@ -1,40 +1,43 @@
-# jolly-xmas
+# merry-xmas 🎄
 
 ```
-       .::::.
-     .::::::::.
-     :::::::::::
-   ':::::::::::..
-   ::::::::::::'
-     ':::::::'
-       '::'
- ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
- ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-⣿⣿⣿    ⣿⣿    ⣿⣿⣿
-⣿⣿⣿    ⣿⣿    ⣿⣿⣿
- ⣿⣿     ⣿⣿     ⣿⣿
- ⣿⣿     ⣿⣿     ⣿⣿
- ⣿⣿    ⣿⣿    ⣿⣿
-   ⣿    ⣿⣿⣿    ⣿
-       ⣿⣿⣿⣿
-       ⣿⣿⣿⣿⣿⣿
-     ⣿⣿⣿  ⣿⣿⣿
+$$\      $$\
+$$$\    $$$ |
+$$$$\  $$$$ | $$$$$$\   $$$$$$\   $$$$$$\  $$\   $$\
+$$\$$\$$ $$ |$$  __$$\ $$  __$$\ $$  __$$\ $$ |  $$ |
+$$ \$$$  $$ |$$$$$$$$ |$$ |  \__|$$ |  \__|$$ |  $$ |
+$$ |\$  /$$ |$$   ____|$$ |      $$ |      $$ |  $$ |
+$$ | \_/ $$ |\$$$$$$$\ $$ |      $$ |      \$$$$$$$ |
+\__|     \__| \_______|\__|      \__|       \____$$ |
+                                           $$\   $$ |
+                                           \$$$$$$  |
+                                            \______/
+$$\   $$\ $$\      $$\  $$$$$$\   $$$$$$\
+$$ |  $$ |$$$\    $$$ |$$  __$$\ $$  __$$\
+\$$\ $$  |$$$$\  $$$$ |$$ /  $$ |$$ /  \__|
+ \$$$$  / $$\$$\$$ $$ |$$$$$$$$ |\$$$$$$\
+ $$  $$<  $$ \$$$  $$ |$$  __$$ | \____$$\
+$$  /\$$\ $$ |\$  /$$ |$$ |  $$ |$$\   $$ |
+$$ /  $$ |$$ | \_/ $$ |$$ |  $$ |\$$$$$$  |
+\__|  \__|\__|     \__|\__|  \__| \______/
 ```
 
-Zen mode is one-shotting a website to prod with SEO, blog and a beautiful responsive layout.
+A festive CLI package that spreads holiday cheer right in your terminal! ✨
 
-Enter zen mode on https://pageai.pro
+## Features
 
-A colorful CLI package that displays an inspiring message with:
-- 🌈 Beautiful rainbow gradient colors
-- 🧘 Zen monk ASCII art
-- ⎯ Underlined URL for easy access
+- 🎄 **ASCII Christmas Trees** - A forest of 3 decorated trees (small, medium & large)
+- 🌈 **Beautiful Gradients** - Red-green Christmas colors & golden holiday text
+- ❄️ **Snowflake Borders** - Festive cyan snowflakes framing the message
+- 🎲 **69 Random Cheerful Messages** - A different uplifting message every time!
+  - Dev humor & coding jokes
+  - AI coding & vibe coding references
+  - Holiday puns & warm wishes
 
 ## Installation
 
 ```bash
-npm install -g jolly-xmas
+npm install -g merry-xmas
 ```
 
 ## Usage
@@ -42,14 +45,25 @@ npm install -g jolly-xmas
 Simply run:
 
 ```bash
-jolly-xmas
+merry-xmas
 ```
 
 Or use with npx without installing:
 
 ```bash
-npx jolly-xmas
+npx merry-xmas
 ```
 
-The output will display in beautiful rainbow colors in your terminal!
+## Example Output
 
+Each run displays a random cheerful message like:
+
+- *"You're vibing so hard, even Claude is impressed!"* 🎧💻
+- *"May your bugs be few and your coffee be strong!"* ☕
+- *"You + AI = unstoppable shipping machine!"* 🚂💨
+- *"Wishing you zero merge conflicts in the new year!"* 🔀
+- *"You're more reliable than localhost!"* 🏠
+
+## License
+
+MIT - Spread the holiday cheer! 🎁
